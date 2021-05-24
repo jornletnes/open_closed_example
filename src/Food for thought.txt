@@ -1,0 +1,2 @@
+1. what happens if you want to add another enum in EnumHolder? Which files do you need to change?
+2. what happens if you want to add another ILevel? Which files do you need to change?
