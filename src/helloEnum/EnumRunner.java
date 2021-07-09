@@ -14,7 +14,7 @@ public class EnumRunner {
 			System.out.println("Do this thing; don't worry about it, it's totally safe.");
 			break;
 		default:
-			System.out.println("Dump en ruke på en politikers trapp");
+			System.out.println("It is not possible to do this thing");
 			break;
 		}
 	}
